@@ -1,7 +1,7 @@
 # Hosting-a-Static-Website-using-Amazon-S3
 
 ### Step1: Create a bucket in Amazon S3.
-#### Bucket Name:mystaticwebsite-ttt2022
+Bucket Name:mystaticwebsite-ttt2022
 
 ### Step2: Under properties of created bucket
 select Static Website Hosting
