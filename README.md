@@ -17,4 +17,4 @@ Disbale it
 Change Bucket-Name to mystaticwebsite-ttt2022
 ### Step8: Upload the image and  index.html file
 
-### Step9: Static website is successfully hosted.
+### Step9: Static website is successfully hosted using Amazon S3.
